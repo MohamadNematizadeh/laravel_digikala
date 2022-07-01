@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\nematizadeh\Desktop\example-app\resources\views////navbar.blade.php ENDPATH**/ ?>
