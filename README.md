@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MohamadNematizadeh/laravel_digikala">
-    <img src="https://github.com/MohamadNematizadeh/laravel_digikala/blob/main/Digikala.svg.png?raw=true" alt="Logo" width="250" height="150">
+    <img src="https://github.com/MohamadNematizadeh/laravel_digikala/blob/main/Digikala.svg.png?raw=true" alt="Logo"  height="50">
   </a>
 
   <h3 align="center">Digikala Websit </h3>
