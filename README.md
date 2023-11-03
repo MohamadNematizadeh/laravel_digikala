@@ -21,6 +21,7 @@
 
 Hints :
 
-build with Html , css , sass , Tailwind & React
+front : Html , css  , botostart
+back and : Php , Laravel , Sql , 
 It has been tried to clean the code
 happy we with star and follow in linkedin , enjoy coding :)
