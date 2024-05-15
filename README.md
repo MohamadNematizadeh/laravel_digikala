@@ -13,7 +13,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/arshiafarrokhi/BitCoinLivePrice/total) ![Contributors](https://img.shields.io/github/contributors/arshiafarrokhi/BitCoinLivePrice?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/arshiafarrokhi/BitCoinLivePrice?style=social) ![Issues](https://img.shields.io/github/issues/arshiafarrokhi/BitCoinLivePrice) 
+![Downloads](https://img.shields.io/github/downloads/MohamadNematizadeh/laravel_digikala/total) ![Contributors](https://img.shields.io/github/contributors/MohamadNematizadeh/laravel_digikala?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/MohamadNematizadeh/laravel_digikala?style=social) ![Issues](https://img.shields.io/github/issues/MohamadNematizadeh/laravel_digikala) 
 
 ## About The Project
 
